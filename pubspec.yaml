@@ -1,8 +1,8 @@
 name: serial_number
-description: "Get the serial number of the physical device"
-version: 0.0.4
+description: "Get the serial number of the physical device. Currently working on Android with iOS version coming soon"
+version: 0.1.0
 author: "e stoutenburg <el.stoutenburg@gmail.com>"
-homepage: https://github.com/elstoutenburg
+homepage: https://github.com/elstoutenburg/serial_number
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
