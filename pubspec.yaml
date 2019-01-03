@@ -1,7 +1,7 @@
 name: serial_number
-description: Get device serial number
-version: 0.0.1
-author: "e stoutenburg <elstoutenburg@gmail.com>"
+description: "Get the serial number of the physical device"
+version: 0.0.3
+author: "e stoutenburg <el.stoutenburg@gmail.com>"
 homepage: https://github.com/elstoutenburg
 
 environment:
