@@ -1,14 +1,20 @@
 # serial_number
 
-A new flutter plugin project.
+This package will retrieve the serial number of the device that the software is installed on to.
+
+This plugin only works for Android currently. iOS release coming later.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.io/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+Sample usage:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```dart
+import "package:serial_number/serial_number.dart";
+
+String sn = await SerialNumber.serialNumber;
+
+debugPrint(serial);
+
+// only work on Android.
+```
+
