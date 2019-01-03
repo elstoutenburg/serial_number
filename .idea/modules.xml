@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serial_number.iml" filepath="$PROJECT_DIR$/serial_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/serial_number_android.iml" filepath="$PROJECT_DIR$/android/serial_number_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/serial_number_example_android.iml" filepath="$PROJECT_DIR$/example/android/serial_number_example_android.iml" />
+    </modules>
+  </component>
+</project>
