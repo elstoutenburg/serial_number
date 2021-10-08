@@ -3,7 +3,8 @@ description: Demonstrates how to use the serial_number plugin.
 publish_to: 'none'
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  flutter: ">=1.12.13+hotfix.6"
+  sdk: ">=2.12.3 <3.0.0"
 
 dependencies:
   flutter:

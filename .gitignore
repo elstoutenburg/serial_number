@@ -7,3 +7,4 @@ pubspec.lock
 
 build/
 example/android/.project
+example/.flutter-plugins-dependencies
